@@ -1,0 +1,31 @@
+{
+  "name": "adven-tour-server",
+  "version": "1.0.0",
+  "description": "Server site of project Adven-Tour",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvirul15/adven-tour-server.git"
+  },
+  "author": "Tanvirul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanvirul15/adven-tour-server/issues"
+  },
+  "homepage": "https://github.com/tanvirul15/adven-tour-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
