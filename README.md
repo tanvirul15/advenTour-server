@@ -1,7 +1,12 @@
- This project is done Under the supervision of Jhohker Mahboob in "Complete Web Development Course With Jhankar Mahbub" course.
-This is Assignment 11: The Full Stack Milestome
-This repository is the Server site of the project.
+**Adventour**
+1. You can see different travel packages and book a package.
+2. Dynamic review section. you can submit a review, and review will be show in review section.
+3. Dynamically add or remove new packages from dashboard.
+4. Stripe payment gateway for payment. 
+5. See all the placed order by customer in dashboard.
 
-It is a web apps for a travel agency which offer different tour packages.
-The Live site link is- https://adven-tour.web.app/
+**Tools and Technologies:** react.js, express.js, mongodb, bootstrap and firebase authentication, 
+stripe payment getway, fontawasome, heroku.
+
+**The Live site link**- https://adven-tour.web.app/
 
